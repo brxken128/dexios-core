@@ -2,6 +2,10 @@
   <img src="https://github.com/brxken128/dexios/raw/master/long-logo.png" width="320" />
 </p>
 
+## Archival Status
+
+This repository has been archived and replaced by the standard [Dexios repo](https://github.com/brxken128/dexios].
+
 ## What is it?
 
 Dexios-Core is a library used for managing cryptographic functions and headers that adhere to the Dexios format.
