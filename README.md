@@ -4,7 +4,7 @@
 
 ## Archival Status
 
-This repository has been archived and replaced by the standard [Dexios repo](https://github.com/brxken128/dexios).
+This repository has been archived and Dexios Core has been moved to the [Dexios repo](https://github.com/brxken128/dexios).
 
 ## What is it?
 
